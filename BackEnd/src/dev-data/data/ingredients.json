@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "6161a59f8d8afbe50196c003",
+    "name": "Salt",
+    "quantity": 1,
+    "measurement": "tsp",
+    "recipes": []
+  },
+  {
+    "_id": "6161a59f8d8afbe50196c004",
+    "name": "Pepper",
+    "quantity": 1,
+    "measurement": "tsp",
+    "recipes": []
+  },
+  {
+    "_id": "6161a59f8d8afbe50196c005",
+    "name": "Olive Oil",
+    "quantity": 2,
+    "measurement": "tbsp",
+    "recipes": []
+  },
+  {
+    "_id": "6161a59f8d8afbe50196c006",
+    "name": "Garlic",
+    "quantity": 2,
+    "measurement": "cloves",
+    "recipes": []
+  },
+  {
+    "_id": "6161a59f8d8afbe50196c007",
+    "name": "Spaghetti",
+    "quantity": 1,
+    "measurement": "medium",
+    "recipes": []
+  },
+  {
+    "_id": "6161a59f8d8afbe50196c008",
+    "name": "Tomato",
+    "quantity": 2,
+    "measurement": "medium",
+    "recipes": []
+  },
+  {
+    "_id": "6161a59f8d8afbe50196c009",
+    "name": "Cumin",
+    "quantity": 1,
+    "measurement": "tsp",
+    "recipes": []
+  },
+  {
+    "_id": "6161a59f8d8afbe50196c00a",
+    "name": "Paprika",
+    "quantity": 1,
+    "measurement": "tsp",
+    "recipes": []
+  },
+  {
+    "_id": "6161a59f8d8afbe50196c00b",
+    "name": "Chicken Broth",
+    "quantity": 4,
+    "measurement": "cups",
+    "recipes": []
+  },
+  {
+    "_id": "6161a59f8d8afbe50196c00c",
+    "name": "Rice",
+    "quantity": 2,
+    "measurement": "cups",
+    "recipes": []
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "_id": "1",
+    "name": "Classic Grilled Cheese",
+    "description": "A classic sandwich made with melted cheese between two slices of bread.",
+    "ratings": 4.5,
+    "cookingSteps": [
+      "1. Heat a nonstick skillet over medium heat.",
+      "2. Butter one side of each slice of bread.",
+      "3. Place one slice of bread butter-side down in the skillet and top with cheese.",
+      "4. Top with the other slice of bread, butter-side up.",
+      "5. Cook until bread is golden brown and cheese is melted, flipping once.",
+      "6. Serve hot."
+    ],
+    "pictureLink": "https://www.example.com/classic-grilled-cheese.jpg",
+    "ingredients": ["6161a59f8d8afbe50196c003", "6161a59f8d8afbe50196c004"]
+  },
+  {
+    "_id": "2",
+    "name": "Pasta with Marinara Sauce",
+    "description": "A simple pasta dish with tomato sauce.",
+    "ratings": 3.8,
+    "cookingSteps": [
+      "1. Cook pasta according to package instructions.",
+      "2. Heat marinara sauce in a pan.",
+      "3. Add cooked pasta to the pan and stir until coated in sauce.",
+      "4. Serve hot."
+    ],
+    "pictureLink": "https://www.example.com/pasta-with-marinara.jpg",
+    "ingredients": [
+      "6161a59f8d8afbe50196c005",
+      "6161a59f8d8afbe50196c006",
+      "6161a59f8d8afbe50196c007"
+    ]
+  },
+  {
+    "_id": "3",
+    "name": "Tomato Soup",
+    "description": "A comforting soup made with fresh tomatoes.",
+    "ratings": 4.2,
+    "cookingSteps": [
+      "1. Heat olive oil in a large pot.",
+      "2. Add onion and garlic and sauté until translucent.",
+      "3. Add chopped tomatoes, broth, salt, pepper, and sugar to the pot.",
+      "4. Bring to a boil, then reduce heat and simmer for 15 minutes.",
+      "5. Use an immersion blender to blend until smooth.",
+      "6. Serve hot."
+    ],
+    "pictureLink": "https://www.example.com/tomato-soup.jpg",
+    "ingredients": [
+      "6161a59f8d8afbe50196c008",
+      "6161a59f8d8afbe50196c009",
+      "6161a59f8d8afbe50196c00a"
+    ]
+  },
+  {
+    "_id": "4",
+    "name": "Chicken Caesar Salad",
+    "description": "A classic salad made with chicken and Caesar dressing.",
+    "ratings": 4.7,
+    "cookingSteps": [
+      "1. Season chicken with salt, pepper, and garlic powder.",
+      "2. Grill chicken until cooked through.",
+      "3. Cut chicken into bite-sized pieces.",
+      "4. In a large bowl, toss lettuce with Caesar dressing.",
+      "5. Add chicken to the bowl and toss to combine.",
+      "6. Top with croutons and grated Parmesan cheese.",
+      "7. Serve cold."
+    ],
+    "pictureLink": "https://www.example.com/chicken-caesar-salad.jpg",
+    "ingredients": [
+      "6161a59f8d8afbe50196c005",
+      "6161a59f8d8afbe50196c001",
+      "6161a59f8d8afbe50196c002",
+      "6161a59f8d8afbe50196c00a",
+      "6161a59f8d8afbe50196c00b"
+    ]
+  },
+  {
+    "_id": "5",
+    "name": "Baked Salmon",
+    "description": "A simple and healthy baked salmon dish.",
+    "ratings": 4.3,
+    "cookingSteps": [
+      "1. Preheat oven to 400°F.",
+      "2. Place salmon fillet in a baking dish.",
+      "3. Drizzle with olive oil and season with salt and pepper.",
+      "4. Bake for 12-15 minutes, until salmon is cooked through.",
+      "5. Serve hot."
+    ],
+    "pictureLink": "https://www.example.com/baked-salmon.jpg",
+    "ingredients": [
+      "6161a59f8d8afbe50196c005",
+      "6161a59f8d8afbe50196c003",
+      "6161a59f8d8afbe50196c00b",
+      "6161a59f8d8afbe50196c002",
+      "6161a59f8d8afbe50196c008"
+    ]
+  }
+]

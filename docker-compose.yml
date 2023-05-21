@@ -1,0 +1,27 @@
+version: "3"
+services:
+  backend:
+    build:
+      context: ./BackEnd
+      dockerfile: Dockerfile
+    ports:
+      - 3000:3000
+    depends_on:
+      - database
+    env_file:
+      - ./BackEnd/config.env
+  frontend:
+    build:
+      context: ./FWE_Frontend
+      dockerfile: Dockerfile
+    ports:
+      - 8000:8000
+    depends_on:
+      - backend
+    env_file:
+      - ./FWE_Frontend/config.env
+
+  database:
+    image: mongo:3
+    ports:
+      - 27017:27017

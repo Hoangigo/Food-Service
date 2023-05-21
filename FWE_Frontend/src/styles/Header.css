@@ -1,0 +1,101 @@
+.header {
+  display: flex;
+  align-items: center;
+  background-color: #f9f5f3;
+  height: 65px;
+  padding: 30px 25px;
+  justify-content: space-between;
+  grid-area: head;
+}
+.search {
+  background-color: #fff;
+  border-radius: 10rem;
+  display: flex;
+  align-items: center;
+  padding-left: 3rem;
+}
+.search_field {
+  border: none;
+  background: none;
+  font-family: inherit;
+  color: inherit;
+  font-size: 1.7rem;
+  width: 20rem;
+}
+.search_field:placeholder {
+  color: rgb(183, 182, 182);
+}
+.search_field:focus {
+  outline: none;
+}
+.btn.search_btn {
+  font-weight: 600;
+  font-family: inherit;
+  background-color: inherit;
+}
+.header.logo {
+  margin-left: 4rem;
+  height: 6rem;
+  display: block;
+}
+.web_ava {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  height: 100px;
+}
+.nav {
+  align-items: stretch;
+  margin-right: 2.5rem;
+}
+.nav_list {
+  list-style: none;
+  display: flex;
+  height: 100%;
+}
+.nav_item {
+  display: flex;
+  align-items: center;
+}
+.nav_btn {
+  height: 100%;
+  font-family: inherit;
+  color: inherit;
+  font-size: 1.4rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0 1.5rem;
+  transition: all 0.3s;
+  display: flex;
+  align-items: center;
+}
+nav_btn svg {
+  height: 2.4rem;
+  width: 2.4rem;
+  fill: var(--color-primary);
+  margin-right: 0.7rem;
+  transform: translateY(-1px);
+}
+.nav_btn:focus {
+  outline: none;
+}
+.nav_btn:hover {
+  background-color: var(--color-grey-light-2);
+}
+.add-icon {
+  width: 100%;
+  height: 100%;
+}
+.nav_icon {
+  width: 50px;
+  height: 50px;
+  margin-right: 8px; /* add some spacing between the icon and span */
+}
+.app-logo {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
